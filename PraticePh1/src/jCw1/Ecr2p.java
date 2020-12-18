@@ -6,6 +6,7 @@ public class Ecr2p {
 		// TODO Auto-generated method stub
 		System.out.println("Howdy ho peeople whatcha doin");
 		System.out.println("howdy ho guys");
+		System.out.println("HI");
 	}
 
 }
